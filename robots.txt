@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vejaworarasu.pages.dev/sitemap.xml
